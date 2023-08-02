@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heugy89
+- 👋 Hi, I’m @ecalandrini
 - 👀 I’m interested in physics, astrophotography and music
 - 🌱 I’m currently learning python for scientific purpose
 - 💞️ I’m looking to collaborate on data analysis
