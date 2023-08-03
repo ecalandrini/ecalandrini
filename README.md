@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ecalandrini
 - 👀 I’m interested in physics, astrophotography and music
-- 🌱 I’m currently learning python for scientific purpose
+- 🌱 I’m using python for scientific purposes
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me: calandrini.e@gmail.com
 
